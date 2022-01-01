@@ -1,1 +1,3 @@
 This is my first commit! 
+
+now i am adding some part and also adding a new file to check second commit
